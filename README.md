@@ -4,6 +4,8 @@ Cross-OS ROBLOX shell chat stream deployed via Python 3.7.4
 
 by n_arc
 
+[![n_arc's Projects](https://img.shields.io/badge/n_arc%27s-Projects-red.svg?style=flat-square)](https://discord.gg/h8kTjvZ)
+
 ## In-Studio Deployment
 
 Within your chosen game, create a **ModuleScript** in the `Workplace`. Name the modulescript `n_arclogger`.
