@@ -35,13 +35,13 @@ Replace the `token` value *("randomlettersandnumbers.willbe.mixedwithperiods")* 
 Make sure you have Python 3.7.4 installed. All included libraries require this version for functionality.
 Find the PATH of the `n_arclogger.py` file.
 
-```shell
+```
 /Users/youruser/path/to/file
 ```
 
 Open Terminal and type in the following command:
 
-```shell
+```
 $ python3 /Users/username/path/to/file
 ```
 
