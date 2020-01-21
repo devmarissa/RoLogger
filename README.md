@@ -8,7 +8,7 @@ by n_arc
 
 ## In-Studio Deployment
 
-Within your chosen game, create a **ModuleScript** in the `Workplace`. Name the modulescript `n_arclogger`.
+Within your chosen game, create a **ModuleScript** in the `Workspace`. Name the modulescript `n_arclogger`.
 Create a child **Script** underneath the `n_arclogger` ModuleScript. Name this script `core`.
 Open these respective `.lua` files in your download. Paste the corresponding content into the in-game scripts.
 
